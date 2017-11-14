@@ -1,7 +1,7 @@
 {
   "name": "hyper-missed-cmd",
-  "version": "0.0.1",
-  "description": "g",
+  "version": "0.0.3",
+  "description": "hyper missed command detection",
   "main": "index.js",
   "scripts": {
     "test": "jest"

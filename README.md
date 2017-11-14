@@ -14,7 +14,7 @@ const ohno = require('hyper-missed-cmd')(
   // /ohn[p]+/
 );
 
-exports.middleware = (store) => (next) => (action) => {
+module.exports.middleware = (store) => (next) => (action) => {
   if(ohno(action)) {
     console.log('ohno was used!');
   }
