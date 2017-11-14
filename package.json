@@ -1,0 +1,27 @@
+{
+  "name": "hyper-missed-cmd",
+  "version": "0.0.1",
+  "description": "g",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benmagyar/hyper-missed-cmd.git"
+  },
+  "keywords": [
+    "hyper",
+    "command",
+    "detect"
+  ],
+  "author": "Ben Magyar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/benmagyar/hyper-missed-cmd/issues"
+  },
+  "homepage": "https://github.com/benmagyar/hyper-missed-cmd#readme",
+  "devDependencies": {
+    "jest": "^21.2.1"
+  }
+}
