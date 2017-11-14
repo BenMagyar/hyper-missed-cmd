@@ -21,7 +21,7 @@ function createCommandPattern(command) {
     `Unknown command '${source}'`,
     `'${source}' is not recognized.*`,
   ];
-  return new RegExp(`^(${patterns.join(')|(')})`);
+  return new RegExp(`(${patterns.join(')|(')})`);
 }
 
 /**

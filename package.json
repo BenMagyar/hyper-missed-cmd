@@ -1,6 +1,6 @@
 {
   "name": "hyper-missed-cmd",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "hyper missed command detection",
   "main": "index.js",
   "scripts": {
